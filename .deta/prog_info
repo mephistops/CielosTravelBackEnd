@@ -1,0 +1,1 @@
+{"id":"e0d9ed4d-6471-4002-8689-dc37ff940822","space":31654,"runtime":"python3.9","name":"cms-plus","path":"gfytzo","project":"a0jk9co9","account":"144798365827","region":"eu-central-1","deps":["fastapi","sqlalchemy","python-jose[cryptography]","passlib[bcrypt]"],"envs":null,"public":true,"log_level":"debug","cron":""}
